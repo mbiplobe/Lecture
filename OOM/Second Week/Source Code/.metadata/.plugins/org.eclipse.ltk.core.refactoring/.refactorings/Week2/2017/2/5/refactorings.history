@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ReadPrintOperation&apos; to &apos;ConsoleInputPrintOperation&apos;&#x0D;&#x0A;- Original project: &apos;Week2&apos;&#x0D;&#x0A;- Original element: &apos;ReadPrintOperation&apos;&#x0D;&#x0A;- Renamed element: &apos;ConsoleInputPrintOperation&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ReadPrintOperation&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{ReadPrintOperation.java[ReadPrintOperation" matchStrategy="1" name="ConsoleInputPrintOperation" qualified="false" references="true" similarDeclarations="false" stamp="1486188590132" textual="false" version="1.0"/>
+</session>
