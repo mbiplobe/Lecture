@@ -1,0 +1,13 @@
+package Operator;
+
+import java.util.Scanner;
+
+public class RelationalOperator {
+private static Scanner mScanner=null; 
+	
+	public static void main(String[] args) {
+		mScanner=new Scanner(System.in);
+		
+	}
+	
+}

@@ -1,0 +1,13 @@
+package Iteration;
+
+import java.util.Scanner;
+
+public class JavaIteration {
+	private static Scanner mScanner=null;
+	
+	public static void main(String[] args) {
+		mScanner=new Scanner(System.in);
+		
+
+	}
+}

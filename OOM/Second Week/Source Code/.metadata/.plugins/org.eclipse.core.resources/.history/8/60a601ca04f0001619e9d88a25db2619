@@ -1,0 +1,26 @@
+package ControlStatement;
+
+import java.util.Scanner;
+
+public class ConditionOperation {
+	private static Scanner mScanner=null; 
+	
+	public static void main(String[] args) {
+		mScanner=new Scanner(System.in);
+		
+	}
+	private static void ifSelection()
+	{
+		System.out.print("Enter Two Number For if-selection : ");
+		double a=mScanner.nextDouble();
+		double b=mScanner.nextDouble();
+		
+		if(a<=b){
+			System.out.println("This is if-statement = "+a+"<="+b);
+		}else{
+			System.out.println("This is else-statement = "+a+">"+b);
+		}
+		
+
+	}
+}

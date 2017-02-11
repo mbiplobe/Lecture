@@ -1,0 +1,45 @@
+package Operator;
+
+import java.util.Scanner;
+
+public class Operator {
+
+	private static Scanner mScanner=null; 
+	
+	public static void main(String[] args) {
+		mScanner=new Scanner(System.in);
+		
+		arithmeticOperators();
+	}
+	/*
+	 * 
+	 * */
+	private static void arithmeticOperators()
+	{
+		
+		addition();
+	}
+	private static void addition()
+	{
+		System.out.print("Enter Two Number For Addition Operation : ");
+		double a=mScanner.nextDouble();
+		double b=mScanner.nextDouble();
+		
+		double sum=a+b;
+		
+		System.out.println("The Addition of a,b is = "+sum);
+	}
+
+	private static void subtraction()
+	{
+		System.out.print("Enter Two Number For Addition Operation : ");
+		double a=mScanner.nextInt();
+		double b=mScanner.nextInt();
+		
+		double subtraction=a-b;
+		
+		System.out.println("The Subtraction of a,b is = "+subtraction);
+	}
+	
+
+}

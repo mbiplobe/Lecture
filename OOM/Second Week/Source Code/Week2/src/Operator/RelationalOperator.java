@@ -1,0 +1,26 @@
+package Operator;
+
+import java.util.Scanner;
+
+public class RelationalOperator {
+private static Scanner mScanner=null; 
+	
+	public static void main(String[] args) {
+		mScanner=new Scanner(System.in);
+		
+	}
+	
+	private static void relation()
+	{
+		System.out.print("Enter Two Number For Relation Operation : ");
+		double a=mScanner.nextDouble();
+		double b=mScanner.nextDouble();
+		
+		if(a==b){
+			System.out.println("Dhaka");
+		}else{
+			System.out.println("Rajshahi");
+		}
+	}
+	
+}
