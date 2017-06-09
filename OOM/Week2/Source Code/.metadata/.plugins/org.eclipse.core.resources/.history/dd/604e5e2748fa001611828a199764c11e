@@ -1,0 +1,13 @@
+import javax.swing.JFrame;
+
+
+public class Temp {
+
+	public static void main(String[] args) {
+		
+		JFrame frame = new JFrame("MyFrameWithComponents");
+		frame.setTitle("Hello");
+		frame.setVisible(true);
+	}
+
+}

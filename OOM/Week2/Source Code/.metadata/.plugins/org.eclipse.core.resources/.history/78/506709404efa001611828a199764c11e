@@ -1,0 +1,6 @@
+public class JavaFxSample {
+
+	public static void main(String[] args) {
+		System.out.println("Bd");
+	}
+}

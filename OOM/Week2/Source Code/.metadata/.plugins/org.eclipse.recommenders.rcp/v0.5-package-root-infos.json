@@ -1,0 +1,275 @@
+[
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "be70ed23d39b2e6c802c93900bdd9f92244e4868",
+    "jarFileModificationDate": "2016-06-02T23:35:55.322+06:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_91\\lib\\ext\\jfxrt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "da72577123a968154bff20f886682b7de0cd1f8c",
+    "jarFileModificationDate": "2016-06-02T23:35:54.765+06:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_91\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a09981a4ed3a93f2a2ebd7772b39beb9569be763",
+    "jarFileModificationDate": "2016-06-02T23:35:51.672+06:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_91\\lib\\ext\\zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f4541459714ea68beb71ef7e2e0391bf97aa31c1",
+    "jarFileModificationDate": "2016-06-02T23:35:51.655+06:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_91\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3f881e3b34693a96cd3d9e20d6aeabae98757359",
+    "jarFileModificationDate": "2016-06-02T23:35:51.659+06:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_91\\lib\\ext\\sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "051c0cb87f8b50944245141af5a101e0a8bbd870",
+    "jarFileModificationDate": "2016-06-02T23:35:51.454+06:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_91\\lib\\ext\\jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b26fc43585308621575066752ba2b4160eb41a04",
+    "jarFileModificationDate": "2016-06-02T23:35:51.998+06:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_91\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "processing-core-1.0.3__0.1.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "87dc7e1c509440bd227d7161b246c98689be4a57",
+    "jarFileModificationDate": "2009-08-30T15:31:28+07:00",
+    "location": "C:\\Users\\mbiplobe\\Downloads\\Compressed\\processing-core-1.0.3__0.1.0.jar\\processing-core-1.0.3__0.1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9cb165148c4f115e371358123c466b966b075e13",
+    "jarFileModificationDate": "2016-06-02T23:35:51.535+06:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_91\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "processing-android-core",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "42ecf37b047c6ba098848eeba1ed69307da502ea",
+    "jarFileModificationDate": "2012-11-14T10:10:30+06:00",
+    "location": "C:\\Users\\mbiplobe\\Downloads\\Compressed\\processing-android-core.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a1c066c2d7323ab33e83d5ba9b43c674b89c9ea0",
+    "jarFileModificationDate": "2016-06-02T23:35:54.653+06:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_91\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "82a0f9c5cbc2b79bdb6cfe80487691e232b26f9c",
+    "jarFileModificationDate": "2016-06-02T23:35:51.531+06:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_91\\lib\\ext\\sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2dc0ad8da53a1a9d1ce9c896bdd57592d7425dab",
+    "jarFileModificationDate": "2016-06-02T23:35:51.238+06:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_91\\lib\\ext\\cldrdata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ecb4e57b5eb32f0a229e28ad4a5eef3a1480b81b",
+    "jarFileModificationDate": "2016-06-02T23:35:54.520+06:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_91\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "258ce821610f4a6015d44192b58e3e665fd7931f",
+    "jarFileModificationDate": "2016-06-02T23:35:51.826+06:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_91\\lib\\jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "processing-android-core",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "42ecf37b047c6ba098848eeba1ed69307da502ea",
+    "jarFileModificationDate": "2012-11-14T10:10:30+06:00",
+    "location": "B:\\Lecture\\OOM\\Second Week\\Source Code\\BDChange\\processing-android-core.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6b0c06098cebe348f452e25798ca342149670e94",
+    "jarFileModificationDate": "2016-06-02T23:35:51.270+06:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_91\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f4cdce4b9dc687dad7f9a8f78a5669b11f11b936",
+    "jarFileModificationDate": "2016-06-02T23:35:51.223+06:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_91\\lib\\ext\\access-bridge.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "987f79996be33d775b5576d9e78e127b5d6dde11",
+    "jarFileModificationDate": "2016-06-02T23:35:54.577+06:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_91\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "52515ac6deab634f3495fd724dea643ee442b8fd",
+    "jarFileModificationDate": "2016-06-02T23:35:51.806+06:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_91\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "481f9a2e0348e4213d6ed335c17ad0b656c7ce54",
+    "jarFileModificationDate": "2016-06-02T23:35:51.467+06:00",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_91\\lib\\ext\\nashorn.jar",
+    "javaRuntime": true
+  }
+]

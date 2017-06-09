@@ -1,0 +1,12 @@
+{
+  "C:\\Program Files\\Java\\jre1.8.0_91\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Program Files\\Java\\jre1.8.0_91\\lib\\rt.jar",
+    "status": "RESOLVED"
+  },
+  "C:\\Users\\mbiplobe\\Downloads\\Compressed\\processing-core-1.0.3__0.1.0.jar\\processing-core-1.0.3__0.1.0.jar": {
+    "location": "C:\\Users\\mbiplobe\\Downloads\\Compressed\\processing-core-1.0.3__0.1.0.jar\\processing-core-1.0.3__0.1.0.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Users\\mbiplobe\\Downloads\\Compressed\\processing-core-1.0.3__0.1.0.jar\\processing-core-1.0.3__0.1.0.jar\u0027. Neither fingerprint \u002787dc7e1c509440bd227d7161b246c98689be4a57\u0027 nor symbolic name \u0027processing-core-1.0.3__0.1.0\u0027 are known."
+  }
+}
